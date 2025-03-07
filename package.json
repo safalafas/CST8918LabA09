@@ -1,0 +1,23 @@
+{
+  "name": "cst8918laba09",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "npx husky init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safalafas/CST8918LabA09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safalafas/CST8918LabA09/issues"
+  },
+  "homepage": "https://github.com/safalafas/CST8918LabA09#readme",
+  "description": "",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}

@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+
+# Husky configuration
+.husky/_
+
+# Local Terraform directories
+**/.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform validation and linting logs
+crash.log
+crash.*.log
+
+# Terraform variable files (may contain sensitive information)
+*.tfvars
+*.tfvars.json
+
+# Terraform override files (used for local modifications)
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Terraform CLI configuration files
+.terraformrc
+terraform.rc
+
+# Environment variables (if used for configuration)
+.env
+
+# OS-specific files (macOS)
+.DS_Store
+
+# IDE-specific files (VSCode, JetBrains)
+.vscode/
+.idea/
